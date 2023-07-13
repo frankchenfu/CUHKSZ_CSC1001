@@ -22,6 +22,7 @@ Please kindly note that there are some restrictions if you want to use this arch
 * You are allowed to download, read, modify, or share my solutions (programs) freely. The solutions are named in the format of `q$.py` where `$` can be replaced by the problem id.
 * You are allowed to download or read the problem statements freely. The problem statements are named in the format of `Assignment $` where `$` can be replaced by the assignment id.
 * You are **NOT** allowed to modify, copy, or share the problem statements without permission from the professors who taught this course in CUHK(SZ).
+* CUHK(SZ) students who enrolled in this course but did not submit these assignments are **NOT** allowed to download, read, copy, modify, or share **any** materials (including problem statements and my solution) in this archive. **ACADEMIC HONESTY DOES MATTER**.
 
 ### Remarks
 
